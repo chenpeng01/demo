@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+.show_user_section{
+	display:block;
+}
+.hide_user_section{
+	display:none;
+}
+
+#upload article{
+	width: 40px;
+	margin-right: 0;
+}

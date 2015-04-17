@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+.main{
+	position: absolute;
+	top: 0pt;
+	bottom: 0pt;
+	left: 0pt;
+	right: 0pt;
+}
+.main header{
+	height:40px;
+}
+ul{
+	list-style:none;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin: 0;
+}
+
+ul li{
+	float:left;
+	text-align: center;
+	padding-left: 40px;
+	width:100px;
+}
+
+li lable,.old_li_input{
+	text-align: center;
+	width: 100px;
+	border:none;
+}
+
+.new_li_input{
+	text-align: center;
+	width: 100px;
+}
+
+#savebutton{
+	height: 30px;
+}
+
